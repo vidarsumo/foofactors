@@ -20,3 +20,5 @@ Suggests:
     testthat
 Imports: 
     forcats
+URL: https://github.com/vidarsumo/foofactors
+BugReports: https://github.com/vidarsumo/foofactors/issues
